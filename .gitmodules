@@ -1,0 +1,3 @@
+[submodule "kernel/nvidia"]
+	path = kernel/nvidia
+	url = https://github.com/InES-HPMM/l4t-4.9-kernel-nvidia.git
